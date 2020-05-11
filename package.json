@@ -1,0 +1,16 @@
+{
+  "name": "poz-web",
+  "version": "1.0.0",
+  "description": "this is the project for demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "--coverage"
+  },
+  "author": "Poz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jest": "^26.0.1"
+  }
+}
